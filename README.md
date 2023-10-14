@@ -1,4 +1,4 @@
-# This is my first repo file...YAAAAY
+# This is my first repo file
 Hello World repository for Git tutorial
 This is an example repository for the Git practice as shown in W3 schools website.
 
